@@ -1,0 +1,281 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\\u30C6\u30C3\u30AF\u30B9\u30BF\u30B8\u30A2\u30E0\\Unity\\report\\report01\\90_FinalProject\\Concentration\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{088E6D83-2784-9B35-888D-9D4AE8FA3F73}|Assembly-CSharp.csproj|d:\\\u30C6\u30C3\u30AF\u30B9\u30BF\u30B8\u30A2\u30E0\\unity\\report\\report01\\90_finalproject\\concentration\\assets\\script\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{088E6D83-2784-9B35-888D-9D4AE8FA3F73}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{088E6D83-2784-9B35-888D-9D4AE8FA3F73}|Assembly-CSharp.csproj|D:\\\u30C6\u30C3\u30AF\u30B9\u30BF\u30B8\u30A2\u30E0\\Unity\\report\\report01\\90_FinalProject\\Concentration\\assets\\script\\homemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{088E6D83-2784-9B35-888D-9D4AE8FA3F73}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\homemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\\u30C6\u30C3\u30AF\u30B9\u30BF\u30B8\u30A2\u30E0\\Unity\\Photon\\UnityProject\\PhotonTest02\\Assets\\Script\\PlayerScript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{088E6D83-2784-9B35-888D-9D4AE8FA3F73}|Assembly-CSharp.csproj|D:\\\u30C6\u30C3\u30AF\u30B9\u30BF\u30B8\u30A2\u30E0\\Unity\\report\\report01\\90_FinalProject\\Concentration\\assets\\script\\titlemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{088E6D83-2784-9B35-888D-9D4AE8FA3F73}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\titlemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{088E6D83-2784-9B35-888D-9D4AE8FA3F73}|Assembly-CSharp.csproj|d:\\\u30C6\u30C3\u30AF\u30B9\u30BF\u30B8\u30A2\u30E0\\unity\\report\\report01\\90_finalproject\\concentration\\assets\\photon unity networking\\plugins\\photonnetwork\\photonview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{088E6D83-2784-9B35-888D-9D4AE8FA3F73}|Assembly-CSharp.csproj|solutionrelative:assets\\photon unity networking\\plugins\\photonnetwork\\photonview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{088E6D83-2784-9B35-888D-9D4AE8FA3F73}|Assembly-CSharp.csproj|D:\\\u30C6\u30C3\u30AF\u30B9\u30BF\u30B8\u30A2\u30E0\\Unity\\report\\report01\\90_FinalProject\\Concentration\\assets\\script\\roommanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{088E6D83-2784-9B35-888D-9D4AE8FA3F73}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\roommanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{088E6D83-2784-9B35-888D-9D4AE8FA3F73}|Assembly-CSharp.csproj|D:\\\u30C6\u30C3\u30AF\u30B9\u30BF\u30B8\u30A2\u30E0\\Unity\\report\\report01\\90_FinalProject\\Concentration\\assets\\script\\rankdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{088E6D83-2784-9B35-888D-9D4AE8FA3F73}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\rankdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{088E6D83-2784-9B35-888D-9D4AE8FA3F73}|Assembly-CSharp.csproj|D:\\\u30C6\u30C3\u30AF\u30B9\u30BF\u30B8\u30A2\u30E0\\Unity\\report\\report01\\90_FinalProject\\Concentration\\assets\\script\\countdownload.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{088E6D83-2784-9B35-888D-9D4AE8FA3F73}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\countdownload.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{088E6D83-2784-9B35-888D-9D4AE8FA3F73}|Assembly-CSharp.csproj|D:\\\u30C6\u30C3\u30AF\u30B9\u30BF\u30B8\u30A2\u30E0\\Unity\\report\\report01\\90_FinalProject\\Concentration\\assets\\script\\countdownchange.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{088E6D83-2784-9B35-888D-9D4AE8FA3F73}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\countdownchange.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{088E6D83-2784-9B35-888D-9D4AE8FA3F73}|Assembly-CSharp.csproj|D:\\\u30C6\u30C3\u30AF\u30B9\u30BF\u30B8\u30A2\u30E0\\Unity\\report\\report01\\90_FinalProject\\Concentration\\assets\\script\\lobbymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{088E6D83-2784-9B35-888D-9D4AE8FA3F73}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\lobbymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{088E6D83-2784-9B35-888D-9D4AE8FA3F73}|Assembly-CSharp.csproj|D:\\\u30C6\u30C3\u30AF\u30B9\u30BF\u30B8\u30A2\u30E0\\Unity\\report\\report01\\90_FinalProject\\Concentration\\assets\\script\\roombutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{088E6D83-2784-9B35-888D-9D4AE8FA3F73}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\roombutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{088E6D83-2784-9B35-888D-9D4AE8FA3F73}|Assembly-CSharp.csproj|D:\\\u30C6\u30C3\u30AF\u30B9\u30BF\u30B8\u30A2\u30E0\\Unity\\report\\report01\\90_FinalProject\\Concentration\\assets\\script\\countdown.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{088E6D83-2784-9B35-888D-9D4AE8FA3F73}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\countdown.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{088E6D83-2784-9B35-888D-9D4AE8FA3F73}|Assembly-CSharp.csproj|D:\\\u30C6\u30C3\u30AF\u30B9\u30BF\u30B8\u30A2\u30E0\\Unity\\report\\report01\\90_FinalProject\\Concentration\\assets\\script\\card.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{088E6D83-2784-9B35-888D-9D4AE8FA3F73}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\card.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{088E6D83-2784-9B35-888D-9D4AE8FA3F73}|Assembly-CSharp.csproj|D:\\\u30C6\u30C3\u30AF\u30B9\u30BF\u30B8\u30A2\u30E0\\Unity\\report\\report01\\90_FinalProject\\Concentration\\assets\\script\\frag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{088E6D83-2784-9B35-888D-9D4AE8FA3F73}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\frag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{088E6D83-2784-9B35-888D-9D4AE8FA3F73}|Assembly-CSharp.csproj|D:\\\u30C6\u30C3\u30AF\u30B9\u30BF\u30B8\u30A2\u30E0\\Unity\\report\\report01\\90_FinalProject\\Concentration\\assets\\script\\photonmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{088E6D83-2784-9B35-888D-9D4AE8FA3F73}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\photonmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{088E6D83-2784-9B35-888D-9D4AE8FA3F73}|Assembly-CSharp.csproj|D:\\\u30C6\u30C3\u30AF\u30B9\u30BF\u30B8\u30A2\u30E0\\Unity\\report\\report01\\90_FinalProject\\Concentration\\assets\\photon unity networking\\plugins\\photonnetwork\\photonnetwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{088E6D83-2784-9B35-888D-9D4AE8FA3F73}|Assembly-CSharp.csproj|solutionrelative:assets\\photon unity networking\\plugins\\photonnetwork\\photonnetwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PlayerScript.cs",
+              "DocumentMoniker": "D:\\\u30C6\u30C3\u30AF\u30B9\u30BF\u30B8\u30A2\u30E0\\Unity\\Photon\\UnityProject\\PhotonTest02\\Assets\\Script\\PlayerScript.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\Photon\\UnityProject\\PhotonTest02\\Assets\\Script\\PlayerScript.cs",
+              "ToolTip": "D:\\\u30C6\u30C3\u30AF\u30B9\u30BF\u30B8\u30A2\u30E0\\Unity\\Photon\\UnityProject\\PhotonTest02\\Assets\\Script\\PlayerScript.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\Photon\\UnityProject\\PhotonTest02\\Assets\\Script\\PlayerScript.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T09:06:47.021Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PhotonView.cs",
+              "DocumentMoniker": "D:\\\u30C6\u30C3\u30AF\u30B9\u30BF\u30B8\u30A2\u30E0\\Unity\\report\\report01\\90_FinalProject\\Concentration\\Assets\\Photon Unity Networking\\Plugins\\PhotonNetwork\\PhotonView.cs",
+              "RelativeDocumentMoniker": "Assets\\Photon Unity Networking\\Plugins\\PhotonNetwork\\PhotonView.cs",
+              "ToolTip": "D:\\\u30C6\u30C3\u30AF\u30B9\u30BF\u30B8\u30A2\u30E0\\Unity\\report\\report01\\90_FinalProject\\Concentration\\Assets\\Photon Unity Networking\\Plugins\\PhotonNetwork\\PhotonView.cs",
+              "RelativeToolTip": "Assets\\Photon Unity Networking\\Plugins\\PhotonNetwork\\PhotonView.cs",
+              "ViewState": "AQIAAA8CAAAAAAAAAAAYwB8CAACZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T08:28:45.618Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "RankData.cs",
+              "DocumentMoniker": "D:\\\u30C6\u30C3\u30AF\u30B9\u30BF\u30B8\u30A2\u30E0\\Unity\\report\\report01\\90_FinalProject\\Concentration\\Assets\\Script\\RankData.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\RankData.cs",
+              "ToolTip": "D:\\\u30C6\u30C3\u30AF\u30B9\u30BF\u30B8\u30A2\u30E0\\Unity\\report\\report01\\90_FinalProject\\Concentration\\Assets\\Script\\RankData.cs",
+              "RelativeToolTip": "Assets\\Script\\RankData.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T01:03:49.812Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CountdownLoad.cs",
+              "DocumentMoniker": "D:\\\u30C6\u30C3\u30AF\u30B9\u30BF\u30B8\u30A2\u30E0\\Unity\\report\\report01\\90_FinalProject\\Concentration\\Assets\\Script\\CountdownLoad.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\CountdownLoad.cs",
+              "ToolTip": "D:\\\u30C6\u30C3\u30AF\u30B9\u30BF\u30B8\u30A2\u30E0\\Unity\\report\\report01\\90_FinalProject\\Concentration\\Assets\\Script\\CountdownLoad.cs",
+              "RelativeToolTip": "Assets\\Script\\CountdownLoad.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T05:05:00.128Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CountdownChange.cs",
+              "DocumentMoniker": "D:\\\u30C6\u30C3\u30AF\u30B9\u30BF\u30B8\u30A2\u30E0\\Unity\\report\\report01\\90_FinalProject\\Concentration\\Assets\\Script\\CountdownChange.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\CountdownChange.cs",
+              "ToolTip": "D:\\\u30C6\u30C3\u30AF\u30B9\u30BF\u30B8\u30A2\u30E0\\Unity\\report\\report01\\90_FinalProject\\Concentration\\Assets\\Script\\CountdownChange.cs",
+              "RelativeToolTip": "Assets\\Script\\CountdownChange.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T05:04:59.653Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GameManager.cs",
+              "DocumentMoniker": "D:\\\u30C6\u30C3\u30AF\u30B9\u30BF\u30B8\u30A2\u30E0\\Unity\\report\\report01\\90_FinalProject\\Concentration\\Assets\\Script\\GameManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\GameManager.cs",
+              "ToolTip": "D:\\\u30C6\u30C3\u30AF\u30B9\u30BF\u30B8\u30A2\u30E0\\Unity\\report\\report01\\90_FinalProject\\Concentration\\Assets\\Script\\GameManager.cs",
+              "RelativeToolTip": "Assets\\Script\\GameManager.cs",
+              "ViewState": "AQIAABUCAAAAAAAAAAAcwCQCAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-19T03:52:43.403Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Countdown.cs",
+              "DocumentMoniker": "D:\\\u30C6\u30C3\u30AF\u30B9\u30BF\u30B8\u30A2\u30E0\\Unity\\report\\report01\\90_FinalProject\\Concentration\\Assets\\Script\\Countdown.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Countdown.cs",
+              "ToolTip": "D:\\\u30C6\u30C3\u30AF\u30B9\u30BF\u30B8\u30A2\u30E0\\Unity\\report\\report01\\90_FinalProject\\Concentration\\Assets\\Script\\Countdown.cs",
+              "RelativeToolTip": "Assets\\Script\\Countdown.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAmwDYAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T04:16:39.152Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Frag.cs",
+              "DocumentMoniker": "D:\\\u30C6\u30C3\u30AF\u30B9\u30BF\u30B8\u30A2\u30E0\\Unity\\report\\report01\\90_FinalProject\\Concentration\\Assets\\Script\\Frag.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Frag.cs",
+              "ToolTip": "D:\\\u30C6\u30C3\u30AF\u30B9\u30BF\u30B8\u30A2\u30E0\\Unity\\report\\report01\\90_FinalProject\\Concentration\\Assets\\Script\\Frag.cs",
+              "RelativeToolTip": "Assets\\Script\\Frag.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAgwCsAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T04:16:38.589Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Card.cs",
+              "DocumentMoniker": "D:\\\u30C6\u30C3\u30AF\u30B9\u30BF\u30B8\u30A2\u30E0\\Unity\\report\\report01\\90_FinalProject\\Concentration\\Assets\\Script\\Card.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Card.cs",
+              "ToolTip": "D:\\\u30C6\u30C3\u30AF\u30B9\u30BF\u30B8\u30A2\u30E0\\Unity\\report\\report01\\90_FinalProject\\Concentration\\Assets\\Script\\Card.cs",
+              "RelativeToolTip": "Assets\\Script\\Card.cs",
+              "ViewState": "AQIAAJUAAAAAAAAAAAAIwKIAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-19T04:03:55.278Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "PhotonNetwork.cs",
+              "DocumentMoniker": "D:\\\u30C6\u30C3\u30AF\u30B9\u30BF\u30B8\u30A2\u30E0\\Unity\\report\\report01\\90_FinalProject\\Concentration\\Assets\\Photon Unity Networking\\Plugins\\PhotonNetwork\\PhotonNetwork.cs",
+              "RelativeDocumentMoniker": "Assets\\Photon Unity Networking\\Plugins\\PhotonNetwork\\PhotonNetwork.cs",
+              "ToolTip": "D:\\\u30C6\u30C3\u30AF\u30B9\u30BF\u30B8\u30A2\u30E0\\Unity\\report\\report01\\90_FinalProject\\Concentration\\Assets\\Photon Unity Networking\\Plugins\\PhotonNetwork\\PhotonNetwork.cs",
+              "RelativeToolTip": "Assets\\Photon Unity Networking\\Plugins\\PhotonNetwork\\PhotonNetwork.cs",
+              "ViewState": "AQIAADcAAAAAAAAAAAAAwPEJAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T09:52:17.594Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TitleManager.cs",
+              "DocumentMoniker": "D:\\\u30C6\u30C3\u30AF\u30B9\u30BF\u30B8\u30A2\u30E0\\Unity\\report\\report01\\90_FinalProject\\Concentration\\Assets\\Script\\TitleManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\TitleManager.cs",
+              "ToolTip": "D:\\\u30C6\u30C3\u30AF\u30B9\u30BF\u30B8\u30A2\u30E0\\Unity\\report\\report01\\90_FinalProject\\Concentration\\Assets\\Script\\TitleManager.cs",
+              "RelativeToolTip": "Assets\\Script\\TitleManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADgAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T07:31:58.758Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "PhotonManager.cs",
+              "DocumentMoniker": "D:\\\u30C6\u30C3\u30AF\u30B9\u30BF\u30B8\u30A2\u30E0\\Unity\\report\\report01\\90_FinalProject\\Concentration\\Assets\\Script\\PhotonManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\PhotonManager.cs",
+              "ToolTip": "D:\\\u30C6\u30C3\u30AF\u30B9\u30BF\u30B8\u30A2\u30E0\\Unity\\report\\report01\\90_FinalProject\\Concentration\\Assets\\Script\\PhotonManager.cs",
+              "RelativeToolTip": "Assets\\Script\\PhotonManager.cs",
+              "ViewState": "AQIAAKcAAAAAAAAAAAAAAKoAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T07:10:24.993Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "RoomButton.cs",
+              "DocumentMoniker": "D:\\\u30C6\u30C3\u30AF\u30B9\u30BF\u30B8\u30A2\u30E0\\Unity\\report\\report01\\90_FinalProject\\Concentration\\Assets\\Script\\RoomButton.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\RoomButton.cs",
+              "ToolTip": "D:\\\u30C6\u30C3\u30AF\u30B9\u30BF\u30B8\u30A2\u30E0\\Unity\\report\\report01\\90_FinalProject\\Concentration\\Assets\\Script\\RoomButton.cs",
+              "RelativeToolTip": "Assets\\Script\\RoomButton.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T07:02:24.674Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeManager.cs",
+              "DocumentMoniker": "D:\\\u30C6\u30C3\u30AF\u30B9\u30BF\u30B8\u30A2\u30E0\\Unity\\report\\report01\\90_FinalProject\\Concentration\\Assets\\Script\\HomeManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\HomeManager.cs",
+              "ToolTip": "D:\\\u30C6\u30C3\u30AF\u30B9\u30BF\u30B8\u30A2\u30E0\\Unity\\report\\report01\\90_FinalProject\\Concentration\\Assets\\Script\\HomeManager.cs",
+              "RelativeToolTip": "Assets\\Script\\HomeManager.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAADwvysAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T05:08:57.386Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RoomManager.cs",
+              "DocumentMoniker": "D:\\\u30C6\u30C3\u30AF\u30B9\u30BF\u30B8\u30A2\u30E0\\Unity\\report\\report01\\90_FinalProject\\Concentration\\Assets\\Script\\RoomManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\RoomManager.cs",
+              "ToolTip": "D:\\\u30C6\u30C3\u30AF\u30B9\u30BF\u30B8\u30A2\u30E0\\Unity\\report\\report01\\90_FinalProject\\Concentration\\Assets\\Script\\RoomManager.cs",
+              "RelativeToolTip": "Assets\\Script\\RoomManager.cs",
+              "ViewState": "AQIAAF4AAAAAAAAAAAAYwG4AAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-19T23:00:32.868Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "LobbyManager.cs",
+              "DocumentMoniker": "D:\\\u30C6\u30C3\u30AF\u30B9\u30BF\u30B8\u30A2\u30E0\\Unity\\report\\report01\\90_FinalProject\\Concentration\\Assets\\Script\\LobbyManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\LobbyManager.cs",
+              "ToolTip": "D:\\\u30C6\u30C3\u30AF\u30B9\u30BF\u30B8\u30A2\u30E0\\Unity\\report\\report01\\90_FinalProject\\Concentration\\Assets\\Script\\LobbyManager.cs",
+              "RelativeToolTip": "Assets\\Script\\LobbyManager.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAFYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T07:14:08.114Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
